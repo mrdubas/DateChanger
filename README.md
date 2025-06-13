@@ -1,7 +1,7 @@
 ## DateChanger
 ![Capture](https://github.com/user-attachments/assets/5347582a-0720-4aa8-9315-bfe39f47cb7f)
 
-A lightweight Windows utility built with PyQt5 that lets you **copy** or **manually set** file creation and modification timestamps via a simple drag-and-drop GUI.
+Utility that lets you **copy** or **manually set** file creation and modification timestamps via a simple drag-and-drop GUI
 
 ---
 
